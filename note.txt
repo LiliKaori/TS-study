@@ -1,0 +1,12 @@
+iniciar projeto
+npm init -y
+
+instalar TS
+npm i -D typescript
+
+transpilar
+npx tsc --init
+npx tsc
+
+tsx - ferramenta que elimina o processo de transpilar o ts
+npm i -D tsx
